@@ -1,0 +1,26 @@
+# AI News Bot Dependencies
+
+# Telegram
+python-telegram-bot[job-queue]>=21.0
+
+# RSS parsing
+feedparser>=6.0
+
+# HTTP requests
+aiohttp>=3.9
+requests>=2.31
+
+# OpenAI API
+openai>=1.0
+
+# Database
+aiosqlite>=0.19
+
+# Environment variables
+python-dotenv>=1.0
+
+# Scheduling
+APScheduler>=3.10
+
+# Date handling
+python-dateutil>=2.8
